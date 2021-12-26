@@ -9,18 +9,6 @@ $ git clone https://github.com/HorusGoul/node-ts-starter your-next-project
 $ cd your-next-project
 ```
 
-2. Install dependencies
-
-```bash
-$ yarn
-```
-
-3. Launch the dev mode
-
-```bash
-$ yarn dev
-```
-
 ## Scripts
 
 - `yarn dev`. Runs the project in dev mode, which means that it won't check types and will restart with every change you make.

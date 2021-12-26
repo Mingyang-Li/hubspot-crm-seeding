@@ -1,0 +1,17 @@
+export type City =
+  | 'Auckland'
+  | 'Wellington'
+  | 'Palmerston North'
+  | 'Christchurch'
+  | 'Invercargill'
+  | 'Dunedin'
+  | 'Stanford'
+  | 'New Plymouth'
+  | 'Hastings'
+  | 'Gisbourne'
+  | 'Tauranga'
+  | 'Taupo'
+  | 'Queenstown'
+  | 'Arrowtown'
+  | 'Cromwell'
+  | 'Kaihoura';
